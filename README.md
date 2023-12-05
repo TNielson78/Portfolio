@@ -4,7 +4,6 @@
 
 Basic portfolio page for class project
 
-
 ## Credits
 
 T/A Tom Gold assisted on some formatting as well as my tutors.
@@ -13,8 +12,6 @@ T/A Tom Gold assisted on some formatting as well as my tutors.
 
 MIT License
 
-
 ## Features
 
-About me, Projects and Contact Section as well as links to previous challenges (Horiseon, and password generator)
-
+About me, Projects and Contact Section as well as clickable links in the project and applications section for a password generator and Holiday Music Application.
