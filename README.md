@@ -18,6 +18,8 @@ More interactive features
 
 More content
 
+More notes will be added to HTML/CSS files to notate changes made and features for development.
+
 ## Code Style
 
 HTML/CSS
