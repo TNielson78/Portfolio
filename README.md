@@ -1,12 +1,40 @@
-# Travis Nielson Portfolio page (starter)
+# Travis Nielson’s Portfolio Project
 
 ## Description
 
 Basic portfolio page for class project
 
+## Motivation
+
+This Portfolio was inspired by my instructors as a class project to help develop my coding skills and begin developing a portfolio to assist me in the job market after this course.
+
+## Build status
+
+This build is in progress and will continue to evolve over time. There are multiple additions I would like to add in the future.
+
+Styling changes
+
+More interactive features
+
+More content
+
+## Code Style
+
+HTML/CSS
+
 ## Credits
 
-T/A Tom Gold assisted on some formatting as well as my tutors.
+Tom Gold and My tutor assisted me with a portion of this project. Research on the internet to public sources.
+
+LinkdIn Logo was provided by LinkdIn. Use was verified by their terms and conditions as a registered user I am permitted to utilize the Logo they have provided.
+
+## Features
+
+Clickable links/Hover over links/Hyperlinked pictures of projects. About me,Projects and Contact links at the top to jump to specific section.
+
+## Installation
+
+No installation necessary should be compatible with most popular browsers.
 
 ## License
 
@@ -32,9 +60,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
-## Features
-
-About me, Projects and Contact Section as well as clickable links in the project and applications section for a password generator and Holiday Music Application.
