@@ -42,7 +42,7 @@ No installation necessary should be compatible with most popular browsers.
 ## License
 
 MIT License
-MIT License
+
 
 Copyright (c) 2023 TNielson78
 
@@ -63,8 +63,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-![Portfolio clip](https://github.com/TNielson78/Portfolio/assets/147010160/99eb7fae-7cd3-4674-939f-f92dd3a54989)
-![apps clip](https://github.com/TNielson78/Portfolio/assets/147010160/758b8e2f-d66c-45dc-8675-028eef5c37c9)
+
+![Portfolio clip](https://github.com/TNielson78/Portfolio/assets/147010160/cabd3021-ba8a-402a-8164-3f236843ad81)
 
 
 Copyright (c) 2023 TNielson78
